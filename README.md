@@ -32,3 +32,6 @@ for the Asia region, we see an uptick in December, April and March. While for Eu
 Africa regions we do not necessarily see a pattern for specific months with an almost equal amount of
 content added over the months. Based on our hypothesis, we do see strong evidence for the Americas
 region but not for Europe
+
+
+References: https://www.kaggle.com/code/joshuaswords/netflix-data-visualization
